@@ -7,7 +7,7 @@ Everything here is implemented in C++
 
 TO DO:
 
-1.Algorithmic-ToolBox
+1.Algorithmic-Toolbox
 
 2.Data Structures
 
