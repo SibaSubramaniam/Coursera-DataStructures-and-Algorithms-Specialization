@@ -1,5 +1,3 @@
-# Algorithmic-Toolbox
-
 ### To do
 
 ~~1. Programming Challenges~~
