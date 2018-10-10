@@ -10,7 +10,7 @@ Assignments for Algorithmic Toolbox on Coursera with time and memory results fro
 
 ~~3. Greedy Algorithms~~
 
-4. Divide and Conquer
+~~4. Divide and Conquer~~
 
 5. Dynamic Programming -1
 
